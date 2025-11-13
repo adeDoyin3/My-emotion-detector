@@ -2,9 +2,9 @@ Flask==3.0.2
 Flask-SQLAlchemy==3.0.4
 gunicorn==21.2.0
 
-# CPU-only PyTorch for Python 3.13
+# PyTorch CPU versions compatible with Python 3.13
 torch==2.9.1
-torchvision==0.20.1
+torchvision==0.24.1
 torchaudio==2.9.1
 
 # Image & ML dependencies
